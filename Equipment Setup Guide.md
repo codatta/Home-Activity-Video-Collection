@@ -99,7 +99,7 @@
 4. **Power Bank**: Prepare for long recordings
 5. **Storage**: Ensure enough phone space
 ---
-## 🛍️ Regional Shopping Links
+## 🛍️ Regional Shopping Guides
 **Shopee** (Singapore/Malaysia/Thailand/Philippines):
 Search: "chest mount phone"
 Search: "head strap GoPro phone"
@@ -119,21 +119,5 @@ Search: "POV recording equipment"
 3. Check battery before recording
 4. Disable notifications to avoid interruption
 ---
-## 🌏 Southeast Asia Specific Tips
-**Thailand**: 
-- JD Central, Shopee TH have good selection
-- MBK Center (Bangkok) for physical stores
-**Vietnam**:
-- Shopee VN, Tiki.vn
-- Phone accessories shops in District 1 (HCMC)
-**Philippines**:
-- Shopee PH, Lazada PH
-- Greenhills Mall (Manila) for accessories
-**Indonesia**:
-- Tokopedia, Shopee ID
-- ITC malls in Jakarta
-**Malaysia**:
-- Shopee MY, Lazada MY
-- Low Yat Plaza (KL) for tech accessories
----
+
 *Last Updated: 2026-04-18*
