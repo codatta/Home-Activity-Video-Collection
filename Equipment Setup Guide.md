@@ -78,11 +78,18 @@
 
 ## 📐 Camera Angle Guide
 
-### Correct Angle
-  [Camera]
-    ↓ 15-30°
-  👐👐
- [Object
+ Correct Angle
+      [Camera]
+        ↓ 15-30°
+      👐👐
+     [Object]
+
+Checklist
+ Both hands visible in frame
+ Object being operated is clear
+ No excessive shaking
+ Comfortable for 10+ minutes
+
  
 ### Checklist
 - [ ] Both hands visible in frame
