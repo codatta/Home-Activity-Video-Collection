@@ -1,4 +1,4 @@
-# 📱 DIY Phone Mount Guide
+# 📱 Equipment Setup Guide
 
 ## Low-Cost Solutions for Body Camera Setup
 
@@ -13,11 +13,10 @@
 - "GoPro chest strap smartphone"
 - "body camera mount"
 
-**Price Range**: $5-15 USD
 
 **Popular Items**:
-1. Universal chest strap + phone clip (~$8)
-2. GoPro-compatible chest mount + phone adapter (~$12)
+1. Universal chest strap + phone clip 
+2. GoPro-compatible chest mount + phone adapter 
 
 ---
 
@@ -44,7 +43,6 @@
 - "POV camera headband"
 - "GoPro head mount smartphone"
 
-**Price**: $8-20 USD
 
 **Tip**: Choose adjustable size for comfort
 
@@ -84,7 +82,8 @@
   [Camera]
     ↓ 15-30°
   👐👐
- [Object]
+ [Object
+ 
 ### Checklist
 - [ ] Both hands visible in frame
 - [ ] Object being operated is clear
