@@ -80,12 +80,10 @@
 
 ### Correct Angle
 
-​```
-      [Camera]
-        ↓ 15-30°
-      👐👐
-     [Object]
-​```
+    [Camera]
+      ↓ 15-30°
+    👐👐
+   [Object]
 
  
 ### Checklist
