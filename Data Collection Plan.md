@@ -18,7 +18,6 @@
 | Item | Requirement |
 |------|-------------|
 | Resolution | 1080P+ (1920×1080) |
-| Frame Rate | 30fps or 60fps |
 | Color | Color, normal exposure, no over/under exposure |
 | Format | MP4 / MOV |
 | Duration | Each video ≥ 10 minutes |
@@ -44,6 +43,7 @@
 |-------|----------|
 | Resolution | ≥ 1920×1080 |
 | Duration | ≥ 10 minutes |
+| Orientation | horizontally |
 | Stability | No excessive shaking/blur |
 | Exposure | Good lighting, no dark/overexposed |
 | Hands Visible | Both hands in frame throughout |
@@ -61,9 +61,7 @@
 ---
 
 
----
-
-## 5. Incentive Payment
+## 4. Incentive Payment
 
 ### 💰 Payment Rules
 
@@ -81,7 +79,7 @@
 
 ---
 
-## 6. FAQ
+## 5. FAQ
 
 **Q1: Can I use a smartphone?**
 A: Yes! Ensure phone is mounted on chest or head, use rear camera, set resolution to 1080P or higher.
