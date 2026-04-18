@@ -1,4 +1,4 @@
-# 📱 DIY Phone Mount Guide (Southeast Asia)
+# 📱 DIY Phone Mount Guide
 
 ## Low-Cost Solutions for Body Camera Setup
 
@@ -8,7 +8,7 @@
 
 ### 🛒 Buy Ready-Made
 
-**Shopee/Lazada Search Keywords**:
+**Search Keywords**:
 - "chest mount phone holder"
 - "GoPro chest strap smartphone"
 - "body camera mount"
@@ -39,7 +39,7 @@
 
 ### 🛒 Buy Ready-Made
 
-**Shopee/Lazada Keywords**:
+**Search Keywords**:
 - "head strap phone mount"
 - "POV camera headband"
 - "GoPro head mount smartphone"
