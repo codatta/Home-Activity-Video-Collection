@@ -43,7 +43,7 @@
 |-------|----------|
 | Resolution | ≥ 1920×1080 |
 | Duration | ≥ 10 minutes |
-| Orientation | horizontally |
+| Orientation | Horizontally |
 | Stability | No excessive shaking/blur |
 | Exposure | Good lighting, no dark/overexposed |
 | Hands Visible | Both hands in frame throughout |
