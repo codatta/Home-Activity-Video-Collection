@@ -86,13 +86,10 @@ A: Yes! Ensure phone is mounted on chest or head, use rear camera, set resolutio
 **Q2: Do I need to record continuously for 10 minutes?**
 A: Yes, each video must be at least 10 minutes continuous recording without frequent pauses.
 
-**Q3: Can I edit the video?**
-A: Not recommended. Submit raw footage without editing or post-processing.
-
-**Q4: What if lighting is poor?**
+**Q3: What if lighting is poor?**
 A: Choose daytime or turn on indoor lights to ensure clear footage.
 
-**Q5: Can multiple people record together?**
+**Q4: Can multiple people record together?**
 A: Yes, but each video should have one main operator (hands in frame).
 
 
