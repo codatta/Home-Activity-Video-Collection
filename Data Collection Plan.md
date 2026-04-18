@@ -19,7 +19,6 @@
 |------|-------------|
 | Resolution | 1080P+ (1920×1080) |
 | Color | Color, normal exposure, no over/under exposure |
-| Format | MP4 / MOV |
 | Duration | Each video ≥ 10 minutes |
 
 ### 🎥 Mounting Position
