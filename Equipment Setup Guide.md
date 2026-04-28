@@ -1,6 +1,8 @@
 # 📱 Equipment Setup Guide
 
 ## Low-Cost Solutions for Body Camera Setup
+<img width="679" height="679" alt="phone mount_edited" src="https://github.com/user-attachments/assets/c781c32a-da8c-42e4-8ec5-8bf573af4220" />
+
 
 ---
 
