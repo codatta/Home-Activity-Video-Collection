@@ -10,13 +10,9 @@
 
 **Search Keywords**:
 - "chest mount phone holder"
-- "GoPro chest strap smartphone"
+- "first person view filming gadget"
 - "body camera mount"
-
-
-**Popular Items**:
-1. Universal chest strap + phone clip 
-2. GoPro-compatible chest mount + phone adapter 
+- “chest strap + phone clip”
 
 ---
 
@@ -41,7 +37,7 @@
 **Search Keywords**:
 - "head strap phone mount"
 - "POV camera headband"
-- "GoPro head mount smartphone"
+- "First-person view head mount"
 
 
 **Tip**: Choose adjustable size for comfort
@@ -85,6 +81,7 @@
     👐👐
     Object
 
+**First-person perspective is required**
  
 ### Checklist
 - [ ] Both hands visible in frame
